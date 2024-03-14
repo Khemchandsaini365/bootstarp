@@ -19,7 +19,7 @@ const Home = () => {
         <>
 
             <Header />
-            {/* <ProductCard products={data} /> */}
+            <ProductCard products={data} />
             {/* <ShoppingCart /> */}
         </>
     )
